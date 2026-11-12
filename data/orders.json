@@ -1,0 +1,63 @@
+[
+    {
+        "id": "AW-C7D7D989",
+        "user_email": "arham123@gmail.com",
+        "customer_name": "shar",
+        "phone": "03373210519",
+        "address": "niggatron st",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "Michael Kors Lexington",
+                "ref": "AW-101",
+                "price": 2450,
+                "quantity": 3,
+                "line_total": 7350
+            },
+            {
+                "product_id": 2,
+                "name": "Rolex Oyster Classic",
+                "ref": "AW-102",
+                "price": 8950,
+                "quantity": 3,
+                "line_total": 26850
+            },
+            {
+                "product_id": 3,
+                "name": "Citizen Eco-Drive",
+                "ref": "AW-103",
+                "price": 680,
+                "quantity": 3,
+                "line_total": 2040
+            },
+            {
+                "product_id": 6,
+                "name": "Archive Field Watch",
+                "ref": "AW-106",
+                "price": 940,
+                "quantity": 1,
+                "line_total": 940
+            },
+            {
+                "product_id": 5,
+                "name": "Alberto Sovereign Gold",
+                "ref": "AW-105",
+                "price": 3950,
+                "quantity": 1,
+                "line_total": 3950
+            },
+            {
+                "product_id": 4,
+                "name": "Bulova Heritage Chronograph",
+                "ref": "AW-104",
+                "price": 1890,
+                "quantity": 1,
+                "line_total": 1890
+            }
+        ],
+        "total": 43020,
+        "currency": "USD",
+        "status": "Processing",
+        "created_at": "2026-11-12T06:24:50+01:00"
+    }
+]
